@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm YWH 👋
+A software developer from China
+- 🌱 I’m currently learning CS:APP
+- 📫 How to reach me: https://yipwinghong.github.io
+
+**Languages:**  
+<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Python-lang.png"></code>
+<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.png"></code>
+<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Java-lang.jpg"></code>
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
