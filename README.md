@@ -5,7 +5,7 @@ A software developer from China
 
 **Languages:**  
 <code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Python-lang.png"></code>
-<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.png"></code>
+<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.jpg"></code>
 <code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Java-lang.jpg"></code>
 
 <!--
