@@ -7,8 +7,8 @@
 A software developer from China
 - 🌱 I’m currently learning CS:APP
 - 📫 How to reach me: 
-  - Blog: https://yipwinghong.github.io
-  - ProcessOn (Mind Maps): https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile 
+  - **[Blog](https://yipwinghong.github.io)**
+  - **[ProcessOn (Mind Maps)](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
   - Email: yipwinghong@outlook.com
 
 **Languages:**  
