@@ -11,8 +11,8 @@
 
 **🌈 Languages:** 
 <p align="left">
-<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.jpg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.png" alt="python" width="40" />
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="java" width="40" height="40"/>
 </p>
