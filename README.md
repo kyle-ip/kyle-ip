@@ -19,7 +19,7 @@
 
 **📝 My posts:**
 
-- [Dive in JVM](https://www.processon.com/mindmap/5c8f9682e4b09a16b9a6ec93)
+- [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
 - [Java Concurrency Programming](https://www.processon.com/view/5c8f80cce4b0ab74ecdc6f12#map)
 - [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
 - ...
