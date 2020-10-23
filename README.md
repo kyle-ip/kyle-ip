@@ -5,7 +5,7 @@
 
 
 ✨ A software developer from Canton, China.
-- 🌱 I’m currently learning CS:APP
+- 🌱 I’m currently learning CS:APP & Algorithms.
 - 📫 How to reach me: 
   - **[Blog](https://yipwinghong.github.io)**
   - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
@@ -16,6 +16,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="java" width="40" height="40"/>
+
+**📝 My posts:**
+- [Dive in JVM](https://www.processon.com/mindmap/5c8f9682e4b09a16b9a6ec93)
+- [Java Concurrency Programming](https://www.processon.com/view/5c8f80cce4b0ab74ecdc6f12#map)
+- [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
+- ...
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
