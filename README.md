@@ -4,16 +4,18 @@
 
 
 
-A software developer from China
+✨ A software developer from Canton, China.
 - 🌱 I’m currently learning CS:APP
 - 📫 How to reach me: 
   - **[Blog](https://yipwinghong.github.io)**
   - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 
-**Languages:**  
-<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Python-lang.png" title="Python"></code>
-<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.jpg" title="C"></code>
-<code><img height="20" src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/Java-lang2.png" title="Java"></code>
+**🌈 Languages:** 
+
+<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.jpg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="java" width="40" height="40"/>
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
