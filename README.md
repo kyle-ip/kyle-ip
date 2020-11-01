@@ -24,7 +24,7 @@
 - [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
 - ...
 
-**⚡ Some interesting projects: **
+**⚡ Some interesting projects:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - ...
 
