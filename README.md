@@ -25,7 +25,7 @@
 - ...
 
 **⚡ Some interesting projects: **
-- [Jua(A simplified Lua written in Java)](https://github.com/FreetechRevise/Jua)
+- [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - ...
 
 <!--
