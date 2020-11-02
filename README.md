@@ -5,7 +5,7 @@
 
 ✨ A software developer from Canton, China.
 - 🌱 I’m currently learning Algorithm & Software Architecture Design.
-- 🔭 I’m currently working on Java technology stack.
+- 🔭 I’m working on Java technology stack.
 - 📫 How to reach me: 
   - **[Blog](https://yipwinghong.github.io)**
   - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
