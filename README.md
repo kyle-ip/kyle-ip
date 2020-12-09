@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true&theme=dracula" alt="yipwinghong" />
 
 </div>
