@@ -28,10 +28,6 @@
   - Distributed System
   - Domain Driven Development
   - DevOps
-- 📫 How to reach me: 
-  - **[Blog](https://yipwinghong.github.io)**
-  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
-  - **Email**
 
 **🌈 Languages:** 
 <p align="left">
@@ -51,6 +47,11 @@
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
 - ...
+
+📫 To reach me: 
+ - **[Blog](https://yipwinghong.github.io)**
+ - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
+ - **Email**
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
