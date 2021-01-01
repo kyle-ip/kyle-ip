@@ -49,7 +49,7 @@
 - ...
 
 📫 To reach me: 
- - **[Blog](https://yipwinghong.github.io)**
+ - **[Blog]**: https://yipwinghong.github.io or https://yipwinghong.gitee.io
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
  - **Email**
 
