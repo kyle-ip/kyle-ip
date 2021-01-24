@@ -22,7 +22,7 @@
 
 ✨ A software developer from Canton, China.
 - 🔭 I’m working on Java technology stack.
-- 🌱 I’m currently learning & Interested in: 
+- 🌱 I’m currently learning & enthusiasm on: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
