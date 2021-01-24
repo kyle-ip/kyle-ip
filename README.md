@@ -20,9 +20,9 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
 
-✨ A software developer from Canton, China.
+✨ A software developer from GuangZhou, China.
 - 🔭 I’m working on Java technology stack.
-- 🌱 I’m currently learning & enthusiasm on: 
+- 🌱 I’m currently learning & interested in: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
@@ -49,7 +49,7 @@
 - ...
 
 📫 To reach me: 
- - **[Blog](https://www.yipwinghong.com) (or https://yipwinghong.gitee.io/)**
+ - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
  - **Email**
 
