@@ -46,6 +46,7 @@
 **⚡ Some interesting repos:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
+- [algorithm (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
 - ...
 
 📫 To reach me: 
