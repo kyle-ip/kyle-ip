@@ -16,11 +16,10 @@
                                                                                                         
 ```
 <div>
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-
-✨ A software developer from GuangZhou, China.
+✨ A software developer from Canton, China.
 - 🔭 I’m working on Java technology stack.
 - 🌱 I’m currently learning & interested in: 
   - Algorithms
