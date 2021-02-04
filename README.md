@@ -53,7 +53,7 @@
  - **Email**
 
 
-> 😄 I'm job hunting now. Please contact me via email if you have any questions. Thx~
+> I'm job hunting now. Please contact me via email if you have any questions. Thx~😄
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
