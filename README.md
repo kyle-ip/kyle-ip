@@ -18,7 +18,7 @@
 <div>
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-✨ I'm work as a software developer from Canton, China.
+✨ I work as a software develop engineer from Canton, China.
 - 🔭 I’m working on Java technology stack, interested in: 
   - Algorithms
   - Software Architecture Design
