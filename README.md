@@ -18,10 +18,8 @@
 <div>
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-
-✨ A software developer from Canton, China.
-- 🔭 I’m working on Java technology stack.
-- 🌱 I’m currently learning & interested in: 
+✨ I'm work as a software developer from Canton, China.
+- 🔭 I’m working on Java technology stack, interested in: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
@@ -53,6 +51,9 @@
  - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
  - **Email**
+
+
+> 😄 I'm job hunting now. Please contact me via email if you have any questions. Thx~
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
