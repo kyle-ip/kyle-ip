@@ -1,20 +1,4 @@
-```
-                                                                                                        
-                                                                                                            ___   
-                                                                                                         .'/   \  
-   .        .--.            .--. ,.--.  __  __   ___                                      .             / /     \ 
- .'|        |__|            |__|//    \|  |/  `.'   `.     .-.          .-      _     _ .'|             | |     | 
-<  |        .--.            .--.\\    ||   .-.  .-.   '     \ \        / //\    \\   //<  |             | |     | 
- | |        |  |            |  | `'-)/ |  |  |  |  |  |      \ \      / / `\\  //\\ //  | |             |/`.   .' 
- | | .'''-. |  |            |  |   /'  |  |  |  |  |  |       \ \    / /    \`//  \'/   | | .'''-.       `.|   |  
- | |/.'''. \|  | ,.--.      |  |       |  |  |  |  |  |        \ \  / /      \|   |/    | |/.'''. \       ||___|  
- |  /    | ||  |//    \     |  |       |  |  |  |  |  |         \ `  /        '         |  /    | |       |/___/  
- | |     | ||__|\\     |    |__|       |__|  |__|  |__|          \  /                   | |     | |       .'.--.  
- | |     | |     `'-) /                                          / /                    | |     | |      | |    | 
- | '.    | '.      /.'                                       |`-' /                     | '.    | '.     \_\    / 
- '---'   '---'                                                '..'                      '---'   '---'     `''--'  
-                                                                                                        
-```
+# YWH
 <div>
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
@@ -70,6 +54,10 @@ Here are some ideas to get you started:
 -->
  
 <!-- &theme=dracula -->
+
+
+![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
 <p> <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
 </div>
