@@ -30,7 +30,7 @@
 - [Algorithm (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
 - ...
 
-📫 To reach me: 
+**📫 To reach me:**
  - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
 
-> I'm job hunting now. Please contact me via email if you have any questions. Thnx~😄
+> I'm hireable now. Please contact me via email if you have any questions. Thnx~😄
