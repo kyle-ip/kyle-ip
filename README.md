@@ -1,8 +1,9 @@
 # Kylo Yip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-✨ I work as a software develop engineer from Canton, China.
-- 🔭 I’m working on Java technology stack, interested in: 
+✨ A software develop engineer from Canton, China.
+
+🔭 I’m working on Java technology stack, interested in: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
