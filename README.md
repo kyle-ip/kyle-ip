@@ -1,5 +1,4 @@
 # YWH
-<div>
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
 ✨ I work as a software develop engineer from Canton, China.
@@ -35,8 +34,6 @@
  - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 
-> I'm job hunting now. Please contact me via email if you have any questions. Thnx~😄
-
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,10 +49,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
+
+
  
 <!-- &theme=dracula -->
+<img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
 
-![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) <p> <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
-
-</div>
+> I'm job hunting now. Please contact me via email if you have any questions. Thnx~😄
