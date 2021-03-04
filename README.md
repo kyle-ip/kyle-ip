@@ -1,7 +1,7 @@
 # Kylo Yip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 
-✨ A software develop engineer from Canton, China.
+✨ A software develop engineer from GuangZhou, China.
 
 🔭 I’m working on Java technology stack, interested in: 
   - Algorithms
