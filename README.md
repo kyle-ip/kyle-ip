@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
 
-> I'm hireable now. Please contact me via email if you have any questions. Thnx~😄
+> I'm job hunting now. Please contact me via email if you have any questions. Thnx~😄
