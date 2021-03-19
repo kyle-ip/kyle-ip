@@ -29,7 +29,7 @@
 **⚡ Some interesting repos:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
-- [Algorithm (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
+- [LeetCode (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
 - [Data Structure (Data Structure implemented in Java)](https://github.com/FreetechRevise/data-structure)
 
 **📫 To reach me:**
