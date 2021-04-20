@@ -9,7 +9,7 @@
   - Distributed System
   - Domain Driven Development
   - DevOps
-  - Other frontier technologies (Cloud Native, Serverless, etc.)
+  - Other frontier technologies and open source projects
 
 **🌈 Languages:** 
 <p align="left">
