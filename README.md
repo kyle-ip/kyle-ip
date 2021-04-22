@@ -36,6 +36,7 @@
 **📫 To reach me:**
  - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
  - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
+ - **Email**: yipwinghong@outlook.com
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
