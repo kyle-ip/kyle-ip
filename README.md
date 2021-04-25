@@ -16,8 +16,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
 <img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="java" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
 </p>
 
 **📝 My posts:**
@@ -57,6 +56,7 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
 
 
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
  
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
