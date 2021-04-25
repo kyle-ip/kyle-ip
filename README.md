@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
 -->
 
 ![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
 
-
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
  
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
