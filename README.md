@@ -3,20 +3,27 @@
 
 ✨ A software develop engineer from Guangzhou, China.
 
-🔭 I’m working on Java technology stack, interested in: 
+🔭 I have 3 years working experience. Enthusiasm on learning: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
-  - Domain Driven Development
   - DevOps
   - Other frontier technologies and open source projects
 
 **🌈 Languages:** 
 <p align="left">
+
+familiarity with: 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
-<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
+
+also know a little:
+<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
+
+recently started learning:
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
+
 </p>
 
 **📝 My posts:**
@@ -52,7 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
+
 -->
 
 ![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
