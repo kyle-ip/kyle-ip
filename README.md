@@ -21,7 +21,7 @@ also know a little:
 <img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
 
-recently started learning:
+and recently started learning:
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
 
 </p>
