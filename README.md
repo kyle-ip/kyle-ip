@@ -21,7 +21,7 @@ also know a little:
 <img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
 
-and recently started learning:
+and recently learning:
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
 
 </p>
@@ -46,7 +46,7 @@ and recently started learning:
  - **WeChat ID**: KyloYip
 
 
-> I'm job hunting now. Please contact me via email if you have any questions. Thnx~😄
+> I'm job hunting currently. Please contact me via email if you have any questions. Thnx~😄
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
