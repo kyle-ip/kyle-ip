@@ -46,7 +46,7 @@ and recently learning:
  - **WeChat ID**: KyloYip
 
 
-> I'm job hunting currently. Please contact me via email if you have any questions. Thnx~😄
+> I'm job hunting currently. Please reach out to me at email if you have any problems. Thnx~😄
 
 <!--
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
