@@ -3,11 +3,16 @@
 
 ✨ A software develop engineer from Guangzhou, China.
 
-🔭 I have 3 years working experience. Enthusiasm on learning: 
+🔭 I have 4 years working experience. Enthusiasm on learning: 
+
   - Algorithms
+
   - Software Architecture Design
+
   - Distributed System
+
   - DevOps
+
   - Other frontier technologies and open source projects
 
 **🌈 Languages:** 
@@ -27,23 +32,36 @@ recently learning:
 </p>
 
 **📝 My posts:**
+
 - [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
+
 - [Java Concurrency Programming](https://www.processon.com/view/5c8f80cce4b0ab74ecdc6f12#map)
+
 - [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
+
 - [...](https://www.yipwinghong.com)
 
 **⚡ Some interesting repos:**
+
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
+
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
+
 - [LeetCode (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
+
 - [Data Structure (Data Structure implemented in Java)](https://github.com/FreetechRevise/data-structure)
+
 - [tiny-spring (Simplified framework for learning fundamental principles of Spring)](https://github.com/yipwinghong/tiny-spring)
 
 **📫 To reach me:**
- - **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
- - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
- - **Email**: yipwinghong@outlook.com
- - **WeChat ID**: KyloYip
+
+- **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
+
+- **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
+
+- **Email**: yipwinghong@outlook.com
+
+- **WeChat ID**: KyloYip
 
 
 <!--
