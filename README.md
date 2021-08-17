@@ -31,6 +31,16 @@ recently learning:
 
 </p>
 
+**📫 To reach me:**
+
+- **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
+
+- **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
+
+- **Email**: yipwinghong@outlook.com
+
+- **WeChat ID**: KyloYip
+
 **📝 My posts:**
 
 - [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
@@ -53,20 +63,10 @@ recently learning:
 
 - [tiny-spring (Simplified framework for learning fundamental principles of Spring)](https://github.com/yipwinghong/tiny-spring)
 
-**📫 To reach me:**
-
-- **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
-
-- **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
-
-- **Email**: yipwinghong@outlook.com
-
-- **WeChat ID**: KyloYip
-
 
 <!--
 
-> I'm job hunting currently. Please reach out to me at email if you have any problems. Thnx~😄
+
 
 **yipwinghong/yipwinghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -91,3 +91,5 @@ Here are some ideas to get you started:
  
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
+
+> I'm job hunting currently. Please reach me at email if you have any questions. Thnx~😄
