@@ -33,7 +33,7 @@ recently learning:
 
 **📫 To reach me:**
 
-- **[Blog](https://www.yipwinghong.com) (https://yipwinghong.gitee.io)**
+- **[Blog](https://www.yipwinghong.com)**
 
 - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 
