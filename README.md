@@ -11,6 +11,8 @@
 
   - Distributed System
 
+  - Big Data
+  
   - DevOps
 
   - Other frontier technologies and open source projects
