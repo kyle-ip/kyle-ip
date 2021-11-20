@@ -1,5 +1,5 @@
 # Kylo Yip 
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
 ✨ A software development engineer from Guangzhou, China.
 
