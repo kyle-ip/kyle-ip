@@ -1,9 +1,9 @@
 # Kylo Yip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
-✨ A software development engineer from Guangzhou, China.
+✨ A software development engineer from GZ, China.
 
-🔭 I have 4 years working experience. Enthusiasm on learning: 
+🔭 I have 4 years work experience. Enthusiasm on learning: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
