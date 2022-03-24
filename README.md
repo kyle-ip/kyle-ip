@@ -17,13 +17,14 @@
 familiarity with: 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
 
 superficial understanding:
 <img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
 
 recently learning:
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Golang" width="40" height="40"/>
 
 </p>
 
