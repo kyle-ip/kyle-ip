@@ -1,4 +1,4 @@
-# Kylo Yip 
+# Kyle Yip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
 ✨ A software development engineer from GZ, China.
@@ -32,7 +32,7 @@ recently learning:
 - **[Blog](https://www.yipwinghong.com)**
 - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 - **Email**: yipwinghong@outlook.com
-- **WeChat ID**: KyloYip
+- **WeChat ID**: KyleYip_wh
 
 **📝 My posts:**
 - [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
