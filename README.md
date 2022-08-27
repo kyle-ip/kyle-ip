@@ -3,7 +3,7 @@
 
 ✨ A software development engineer from GZ, China.
 
-🔭 I have 4 years work experience. Enthusiasm on learning: 
+🔭 I have 5 years work experience. Enthusiasm on learning: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
