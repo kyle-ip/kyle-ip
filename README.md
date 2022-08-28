@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+> I'm ready for job hunting anytime. Please reach me at Email if you have any questions. Thnx~😄
 -->
 
 ![Metrics](https://metrics.lecoq.io/yipwinghong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
@@ -68,4 +69,4 @@ Here are some ideas to get you started:
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
-> I'm ready for job hunting anytime. Please reach me at Email if you have any questions. Thnx~😄
+
