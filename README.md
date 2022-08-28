@@ -3,7 +3,7 @@
 
 ✨ A software development engineer from GZ, China.
 
-🔭 I have 5 years work experience. Enthusiasm on learning: 
+🔭 I have 5 years work experience, with great enthusiasm about: 
   - Algorithms
   - Software Architecture Design
   - Distributed System
@@ -43,8 +43,8 @@ and recently learning:
 **⚡ Some repositories:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
-- [LeetCode (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
-- [Data Structure (Data Structure implemented in Java)](https://github.com/FreetechRevise/data-structure)
+- [LeetCode (implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
+- [Data Structure (implemented in Java)](https://github.com/FreetechRevise/data-structure)
 - [tiny-spring (Simplified framework for learning fundamental principles of Spring)](https://github.com/yipwinghong/tiny-spring)
 
 <!--
