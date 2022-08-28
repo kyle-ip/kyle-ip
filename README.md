@@ -29,7 +29,6 @@ and recently learning:
 </p>
 
 **📫 To reach me:**
-- **[Blog](https://www.yipwinghong.com)**
 - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 - **Email**: yipwinghong@outlook.com
 - **WeChat ID**: KyleYip_wh
