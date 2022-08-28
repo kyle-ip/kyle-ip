@@ -40,7 +40,7 @@ and recently learning:
 - [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
 - [...](https://www.yipwinghong.com)
 
-**⚡ Some interesting repos:**
+**⚡ Some repositories:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
 - [online-runner (A toy online Java code compiler and runner)](https://github.com/yipwinghong/online-runner)
 - [LeetCode (Data Structure & Algorithm implemented in C, Java, Python)](https://github.com/FreetechRevise/algorithm)
