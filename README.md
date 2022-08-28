@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=yipwinghong&show_icons=true" alt="yipwinghong" />
 
-I'm ready for job hunting. Please reach me at Email if you have any questions. Thnx~😄
+> I'm ready for job hunting anytime. Please reach me at Email if you have any questions. Thnx~😄
