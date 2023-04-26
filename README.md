@@ -1,6 +1,8 @@
 # Kyle Ip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
+> I'm offboarding now. If you have any suitable positions available for me, please reach me at Email or Wechat. Thnx~😄
+
 ✨ A software development engineer from China.
 
 🔭 I'm enthusiastic about: 
@@ -63,12 +65,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-> I'm ready for job hunting anytime. Please reach me at Email if you have any questions. Thnx~😄
 -->
 
 ![Metrics](https://metrics.lecoq.io/kyle-ip?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
 
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=kyle-ip&show_icons=true" alt="yipwinghong" />
+
+
 
 
