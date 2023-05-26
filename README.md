@@ -1,7 +1,7 @@
 # Kyle Ip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
-> I'm offboarding now. If you have any suitable positions available for me, please reach me at Email or Wechat. Thnx~😄
+> I'm job hunting now. If you have any suitable positions available for me, please reach me at Email or Wechat. Thnx~😄
 
 ✨ A software development engineer from China.
 
