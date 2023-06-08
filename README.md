@@ -37,6 +37,7 @@ and recently learning:
 - **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 - **Email**: kyle.ip@outlook.com
 - **WeChat ID**: KyleYip_wh
+- **Blog**: https://github.com/kyle-ip/stochastic-exploration/issues
 
 **📝 My posts:**
 - [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
