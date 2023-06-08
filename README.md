@@ -34,16 +34,12 @@ and recently learning:
 </p>
 
 **📫 To reach me:**
-- **[Mind Maps](https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile)**
 - **Email**: kyle.ip@outlook.com
 - **WeChat ID**: KyleYip_wh
-- **Blog**: https://github.com/kyle-ip/stochastic-exploration/issues
 
 **📝 My posts:**
-- [Dive in JVM](https://www.processon.com/view/5c8f9682e4b09a16b9a6ec93#map)
-- [Java Concurrency Programming](https://www.processon.com/view/5c8f80cce4b0ab74ecdc6f12#map)
-- [High Performance MySQL](https://www.processon.com/view/5c9b66e9e4b09bf72a6ab9e8#map)
-- [...](https://www.yipwinghong.com)
+- Blog: https://github.com/kyle-ip/stochastic-exploration/issues
+- Mind Maps: https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile
 
 **⚡ Some repositories:**
 - [Jua (A simplified Lua 5.3 implemented in Java)](https://github.com/FreetechRevise/Jua)
