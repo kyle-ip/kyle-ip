@@ -40,7 +40,7 @@ and recently learning:
 - **AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
 
 **📝 My posts:**
-- Blog: https://github.com/kyle-ip/stochastic-exploration/issues
+- Blog: https://github.com/kyle-ip/stochastic-exploration/discussions
 - Mind Maps: https://www.processon.com/u/5c84a4fde4b0ed6b42fac9a9/profile
 
 **⚡ Some repositories:**
