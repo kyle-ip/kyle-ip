@@ -37,6 +37,7 @@ and recently learning:
 **📫 To reach me:**
 - **Email**: kyle.ip@outlook.com
 - **WeChat ID**: KyleYip_wh
+- **AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
 
 **📝 My posts:**
 - Blog: https://github.com/kyle-ip/stochastic-exploration/issues
