@@ -1,6 +1,8 @@
 # Kyle Ip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
+> I'm job hunting now. If you have any questions or suitable positions available for me, feel free to reach me at Email or Wechat. Thnx~😄
+
 ✨ A software development engineer from China.
 
 🔭 I'm enthusiastic about: 
@@ -68,8 +70,6 @@ Here are some ideas to get you started:
 
 <!-- &theme=dracula -->
 <img src="https://github-readme-stats.vercel.app/api?username=kyle-ip&show_icons=true" alt="yipwinghong" />
-
-> I'm job hunting now. If you have any suitable positions available for me, please reach me at Email or Wechat. Thnx~😄
 
 
 
