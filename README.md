@@ -1,7 +1,7 @@
 # Kyle Ip 
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> ![](https://komarev.com/ghpvc/?username=yipwinghong)
 
-> I'm job hunting now. If you have any questions or suitable positions available for me, feel free to reach me at Email or Wechat. Thnx~😄
+> I'm job hunting now. If you want to know more about me or have any suitable positions, feel free to reach me at Email or Wechat. Thnx~😄
 
 ✨ A software development engineer from China.
 
