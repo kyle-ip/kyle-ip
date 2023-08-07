@@ -5,15 +5,14 @@
 
 ✨ A software development engineer from China.
 
-🔭 I'm enthusiastic about: 
-  - Algorithms
+🔭 Focused on server-side applicaion developmen, I'm enthusiastic about: 
   - Software Architecture Design
   - Distributed System
   - Big Data
   - DevOps
   - Other frontier technologies and open source projects
 
-**🌈 Languages:** 
+**🌈 Programming Languages:** 
 <p align="left">
 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
