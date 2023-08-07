@@ -18,7 +18,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="c" width="40" />
 <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40"/>
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="40" height="40"/>
@@ -36,15 +36,6 @@
 ...
 
 <!--  
-familiar with: 
-
-superficial understanding:
-<img src="https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/C-lang.svg" alt="C" width="40" />
-
-
-and recently learning:
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Golang" width="40" height="40"/>
-
 
 - **AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
 -->
