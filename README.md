@@ -14,7 +14,6 @@
 
 **🌈 Skill Set:** 
 <p align="left">
-  
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
@@ -24,8 +23,11 @@
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40"/>
+</p>
+
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40"/>
 <img src="https://brandeps.com/logo-download/H/HBase-logo-vector-01.svg" alt="HBase" width="40"/>
@@ -34,10 +36,10 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40"/>
 ...
-
+</p>
 <!--  
 
 - **AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
