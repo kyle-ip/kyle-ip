@@ -5,7 +5,7 @@
 
 ✨ A software development engineer from China.
 
-🔭 Focused on server-side applicaion developmen, I'm enthusiastic about: 
+🔭 Focused on server-side applicaion development, I'm enthusiastic about: 
   - Software Architecture Design
   - Distributed System
   - Big Data
