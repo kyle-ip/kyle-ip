@@ -3,9 +3,7 @@
 
 <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> -->
 
-> I'm job hunting now. If you want to know more about me or have any suitable positions, feel free to reach me at Email or Wechat. Thnx~😄
-
-✨ A software development engineer from China.
+✨ Software development engineer from China.
 
 🔭 Focused on server-side applicaion development, I'm enthusiastic about: 
   - Software Architecture Design
@@ -51,7 +49,7 @@
 
 **📫 To reach me:**
 - **Email**: kyle.ip@outlook.com
-- **WeChat ID**: KyleYip_wh
+- **WeChat ID**: kyle-ip
 
 **📝 My posts:**
 - Blog: https://github.com/kyle-ip/stochastic-exploration/discussions
@@ -78,6 +76,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+> I'm job hunting now. If you want to know more about me or have any suitable positions, feel free to reach me at Email or Wechat. Thnx~😄
 -->
 
 ![Metrics](https://metrics.lecoq.io/kyle-ip?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai) 
