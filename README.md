@@ -10,7 +10,7 @@
   - Distributed System
   - Big Data
   - DevOps
-  - Other frontier technologies and open source projects
+  - Other cutting-edge technologies and open source projects
 
 **🌈 Skill Set:** 
 <p align="left">
