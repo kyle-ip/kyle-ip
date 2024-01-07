@@ -9,7 +9,8 @@
   - Software Architecture Design
   - Distributed System
   - Big Data
-  - DevOps
+  - DevOps / DevSecOps
+  - Full Stack Engineering
   - Other cutting-edge technologies and open source projects
 
 **🌈 Skill Set:** 
