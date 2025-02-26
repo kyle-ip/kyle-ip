@@ -41,10 +41,8 @@
 <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40"/>
 ...
 </p>
-<!--  
 
-- **AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
--->
+**AMA**: [Ask me anything!](https://github.com/kyle-ip/ama)
 
 **📫 To reach me:**
 - **Email**: kyle.ip@outlook.com
